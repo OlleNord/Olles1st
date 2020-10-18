@@ -1,6 +1,14 @@
 header {
-  background-color: grey;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 20px;
+    background-color: #a5a5a5;
+    text-align: center;
 }
 canvas {
-  backround-color: black;
+    background-color: #cccccc;
+}
+body {
+    margin: 5px;
+	background-color: #737373;
 }
