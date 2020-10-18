@@ -1,3 +1,6 @@
 header {
-  background-color: #3813F;
+  background-color: grey;
+}
+canvas {
+  backround-color: black;
 }
