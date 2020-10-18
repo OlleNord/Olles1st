@@ -7,6 +7,7 @@ header {
 }
 canvas {
     background-color: #cccccc;
+    padding: 100%;
 }
 body {
     margin: 5px;
